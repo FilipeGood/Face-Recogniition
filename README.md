@@ -1,8 +1,11 @@
 # Face-Recogniition
 Face Recognition with OpenCV - Python
+
+
 This repository contains two projects that recognize faces:
-    - The "normal" one simply uses haar features and local binary patterns (openCV) to recognize faces
-    - The one in the face-recognition-deep-learning folder uses deep learning to recognize faces
+
+    * The "normal" one simply uses haar features and local binary patterns (openCV) to recognize faces
+    * The one in the face-recognition-deep-learning folder uses deep learning to recognize faces
 
 ### Running options:
   - python3 face_recognition_clean.py **test_video**  - tests if cv2 is properly installed and if the webcam works
